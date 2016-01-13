@@ -2,3 +2,4 @@
 
 * Rails 4.2.4
 * Amazon Web Services turned off
+* Test credit card number for Stripe: 4242424242424242
